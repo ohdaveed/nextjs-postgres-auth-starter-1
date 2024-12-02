@@ -1,7 +1,9 @@
-{
-  "private": true,
+{ "private" : "true",
+  "name": "nextjs-postgres-auth-starter",
+  "version": "1.0.0",
+  "description": "A starter template for Next.js with PostgreSQL and NextAuth.js",
   "scripts": {
-    "dev": "next dev --turbo",
+    "dev": "next dev",
     "build": "next build",
     "start": "next start",
     "lint": "next lint"
